@@ -10,7 +10,7 @@ class Main {
             else if (state.equals("q0") && input.charAt(i) == '1') {
                 state = "q0";
             }
-            else if (state.equals("q0") && input.charAt(i) == '0') {
+            else if (state.equals("q1") && input.charAt(i) == '0') {
                 state = "q1";
             }
             else if (state.equals("q1") && input.charAt(i) == '1') {

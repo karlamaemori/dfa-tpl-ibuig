@@ -23,7 +23,7 @@ public class main_Scanner {
             else if (state.equals("q0") && answer.charAt(i) == '1') {
                 state = "q0";
             }
-            else if (state.equals("q0") && answer.charAt(i) == '0') {
+            else if (state.equals("q1") && answer.charAt(i) == '0') {
                 state = "q1";
             }
             else if (state.equals("q1") && answer.charAt(i) == '1') {
