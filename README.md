@@ -12,5 +12,8 @@ This program has two versions:
 | **q1**       | Stay at q1| Go to q2  |
 | **q2**       | Go to q1  | Go to q0  |
 
+---
 
+## DFA Given Pattern:
+![DFA Image](https://github.com/karlamaemori/dfa-tpl-ibuig/blob/main/DFA%20Image.PNG)
 
